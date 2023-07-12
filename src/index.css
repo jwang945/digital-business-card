@@ -14,8 +14,12 @@ code {
 
 .business-card {
   background-color: grey;
-  width: 25%;
+  width: 350px;
   margin-left: auto;
   margin-right: auto;
   height: 70vh;
+}
+
+.maisie-img {
+  width: 350px;
 }
