@@ -13,11 +13,11 @@ code {
 }
 
 .business-card {
-  background-color: grey;
+  background-color: #292a33;
   width: 350px;
   margin-left: auto;
   margin-right: auto;
-  height: 70vh;
+  height: 80vh;
 }
 
 .maisie-img {
