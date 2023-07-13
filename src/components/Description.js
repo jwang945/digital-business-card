@@ -5,7 +5,7 @@ export default function Description() {
             <h2 className = "profession">Certified Cat</h2>
             <div className="buttons">
                 <button className = "button">Feed Me</button>
-                <a href="https://www.linkedin.com/in/jet--wang/"> <button className = "button">LinkedIn</button> </a>
+                <a href="https://www.linkedin.com/in/jet--wang/" target="_blank" rel="noopener noreferrer"> <button className = "button">LinkedIn</button> </a>
             </div>
             <div className="descriptions-box">
                 <div className = "description">
@@ -14,7 +14,7 @@ export default function Description() {
                 </div>
                 <div className = "description">
                     <h2>Interests</h2>
-                    <h3>I am interested in big-eye tuna and the mating habits of the common housefly. I am not interested in big and dumb dogs.</h3>
+                    <h3>I am interested in bigeye tuna and the mating habits of the common housefly. I am not interested in big and dumb dogs.</h3>
                 </div>
             </div>
             
