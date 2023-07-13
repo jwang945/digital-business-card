@@ -10,7 +10,7 @@ export default function Description() {
             <div className="descriptions-box">
                 <div className = "description">
                     <h2 className = "about-title">About</h2>
-                    <h3>I am a business cat. I do lots of business. I am adept at catching toys and lasers. I also have strong biting skills</h3>
+                    <h3>I am a business cat. I do lots of business. I am adept at catching toys and lasers. I also have strong biting skills.</h3>
                 </div>
                 <div className = "description">
                     <h2>Interests</h2>
