@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/digital-business-card/static/css/main.932f7509.css",
-    "main.js": "/digital-business-card/static/js/main.903a9e3f.js",
+    "main.css": "/digital-business-card/static/css/main.9b6dd6ae.css",
+    "main.js": "/digital-business-card/static/js/main.d2122dca.js",
     "static/js/787.86b5e812.chunk.js": "/digital-business-card/static/js/787.86b5e812.chunk.js",
     "static/media/maisie-img.jpg": "/digital-business-card/static/media/maisie-img.46eab147b6fa9ac0bd2a.jpg",
     "static/media/instagram.png": "/digital-business-card/static/media/instagram.cec5736859c50a5a0dc7.png",
@@ -9,12 +9,12 @@
     "static/media/twitter.png": "/digital-business-card/static/media/twitter.8e65601e69067aadfe55.png",
     "static/media/logo.svg": "/digital-business-card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/digital-business-card/index.html",
-    "main.932f7509.css.map": "/digital-business-card/static/css/main.932f7509.css.map",
-    "main.903a9e3f.js.map": "/digital-business-card/static/js/main.903a9e3f.js.map",
+    "main.9b6dd6ae.css.map": "/digital-business-card/static/css/main.9b6dd6ae.css.map",
+    "main.d2122dca.js.map": "/digital-business-card/static/js/main.d2122dca.js.map",
     "787.86b5e812.chunk.js.map": "/digital-business-card/static/js/787.86b5e812.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.932f7509.css",
-    "static/js/main.903a9e3f.js"
+    "static/css/main.9b6dd6ae.css",
+    "static/js/main.d2122dca.js"
   ]
 }
