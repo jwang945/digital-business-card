@@ -5,7 +5,7 @@ export default function Description() {
             <h2 className = "profession">Certified Cat</h2>
             <div className="buttons">
                 <button className = "button">Feed Me</button>
-                <button className = "button">LinkedIn</button>
+                <a href="https://www.linkedin.com/in/jet--wang/"> <button className = "button">LinkedIn</button> </a>
             </div>
             <div className="descriptions-box">
                 <div className = "description">

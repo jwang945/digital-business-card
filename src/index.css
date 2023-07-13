@@ -41,6 +41,9 @@ code {
   display: flex;
   justify-content: space-evenly;
 }
+a {
+  text-decoration: none;
+}
 .button {
   align-items: center;
   background-color: #fee6e3;
